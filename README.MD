@@ -1,0 +1,1 @@
+#   Eloquent Stand-Alone Package for Laravel 5.3
