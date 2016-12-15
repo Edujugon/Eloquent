@@ -18,6 +18,5 @@
     "psr-4": {
       "Edujugon\\Eloquent\\": "src/"
     }
-  },
-  "minimum-stability": "dev"
+  }
 }
