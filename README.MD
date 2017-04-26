@@ -1,8 +1,8 @@
-#   Eloquent Stand-Alone Package for Laravel 5.3
+#   Eloquent Stand-Alone Package for Laravel
 
 ## Installation
 
-### Laravel 5.3
+### Laravel
 
 Update your composer.json file.
 
@@ -24,7 +24,7 @@ Then
 composer update
 ```
 
-## Register the PushNotification service by adding it to the providers array.
+## Register the Eloquent service by adding it to the providers array.
 
 ```
 'providers' => array(
